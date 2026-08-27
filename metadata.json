@@ -1,0 +1,6 @@
+{
+  "name": "Paradise Restaurant",
+  "description": "Premium dining & authentic BBQ in Faisalabad, Pakistan. Serving signature Karahi, Handi, Steaks, Chinese, and refreshing Mocktails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
